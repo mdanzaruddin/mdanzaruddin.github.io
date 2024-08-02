@@ -32,7 +32,7 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav w-100 d-flex justify-content-center">
+          <ul class="navbar-nav">
             <li class="nav-item">
               <a class="nav-link active  hover-underline-animation" href="#about">About</a>
             </li>
